@@ -2,10 +2,12 @@ name: Generate Legend Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # <--- THIS IS THE CRITICAL FIX
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -19,8 +21,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           config_padding: 0, 10%
-          # Custom Cyberpunk Theme overrides
           config_order: isocalendar, habits
           output_action: commit
           committer_branch: main
-          committer_message: "chore: update 3D telemetry metrics"
