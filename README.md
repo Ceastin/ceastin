@@ -18,25 +18,19 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=50&section=header&text=///%20SYSTEM_ARCHITECTURE%20///&fontSize=20&fontAlign=50&fontAlignY=50&descAlign=50&descAlignY=55" />
 </div>
 
-<!-- THE DASHBOARD (BENTO BOX LAYOUT) -->
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <!-- LEFT PANEL: Core Identity -->
     <td width="50%" valign="top" style="border: none; padding: 15px;">
       <h3 align="left" style="color: #00FFD1;"><code>[01] THE_ENGINEER</code></h3>
-      <p align="left">
-        Architecting <b>zero-latency cloud solutions</b> and pushing the boundaries of <b>spatial/multispectral ML research</b>. I don't just write code; I build highly concurrent, fault-tolerant infrastructure capable of sub-50ms global delivery.
-      </p>
+      <p align="left">Architecting <b>zero-latency cloud solutions</b> and pushing the boundaries of <b>spatial/multispectral ML research</b>. I don't just write code; I build highly concurrent, fault-tolerant infrastructure capable of sub-50ms global delivery.</p>
       <h3 align="left" style="color: #00FFD1;"><code>[02] DOMINANCE_MATRIX</code></h3>
       <ul>
         <li>🏆 <b>1st Place:</b> Titan Technxt (Defeated 3,500+ teams)</li>
         <li>⚔️ <b>LeetCode Knight:</b> Peak 1963 | 1700+ Solved</li>
         <li>📜 <b>Patents:</b> 2x Indian Patent Journal</li>
-        <li>🔬 <b>Research:</b> IEEE Published | Book Chapter Author</li>
+        <li>🔬 <b>Research:</b> IEEE Published | Book Chapter</li>
       </ul>
     </td>
-    
-    <!-- RIGHT PANEL: Animated Tech Stack Ring -->
     <td width="50%" valign="center" align="center" style="border: none; padding: 15px;">
       <img src="https://skillicons.dev/icons?i=aws,docker,rabbitmq,postgres,mongodb,react,nextjs,nodejs,fastapi,python,cpp,ts&theme=dark&perline=4" alt="Tech Stack" />
     </td>
@@ -90,3 +84,4 @@
 <div align="center">
   <a href="https://leetcode.com/u/Tiresome_Anomaly/"><img src="https://leetcard.jacoblin.cool/Tiresome_Anomaly?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats"></a>
 </div>
+
