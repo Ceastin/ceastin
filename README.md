@@ -71,23 +71,21 @@
 <br>
 
 <!-- HOLOGRAPHIC TELEMETRY (STATS) -->
+<!-- HOLOGRAPHIC TELEMETRY (STATS & HEARTBEAT) -->
 <h3 align="center" style="color: #00FFD1;"><code>/// LIVE_TELEMETRY ///</code></h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ceastin&show_icons=true&hide_border=true&bg_color=0D111700&title_color=00FFD1&text_color=C9D1D9&icon_color=00FFD1&ring_color=00FFD1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceastin&layout=compact&hide_border=true&bg_color=0D111700&title_color=00FFD1&text_color=C9D1D9&icon_color=00FFD1" width="48%" />
+  <!-- GitHub Demolab Streak Stats (Bulletproof Endpoint) -->
+  <img src="https://streak-stats.demolab.com/?user=Ceastin&theme=dark&hide_border=true&background=0D111700&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1&sideLabels=00FFD1&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" width="48%" />
+  
+  <!-- Cyberpunk Activity Heartbeat Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceastin&theme=tokyo-night&hide_border=true&bg_color=0D111700&color=00FFD1&line=00FFD1&point=FFFFFF&area=true" width="48%" />
 </div>
+
 <br>
+
 <div align="center">
   <a href="https://leetcode.com/u/Tiresome_Anomaly/"><img src="https://leetcard.jacoblin.cool/Tiresome_Anomaly?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats"></a>
 </div>
-
-<br>
-
-<!-- 3D ISOMETRIC CALENDAR (From your existing action) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ceastin/Ceastin/main/github-metrics.svg?v=1" alt="3D GitHub Metrics" onerror="this.style.display='none'"/>
-</div>
-
 <br>
 
 <!-- THE ANIMATED MATRIX SNAKE (Requires Action Setup below) -->
@@ -96,6 +94,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ceastin/Ceastin/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ceastin/Ceastin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ceastin/Ceastin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ceastin/Ceastin/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
+
